@@ -6,6 +6,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 In order to build dwm you need the Xlib header files.
 
+- compiz
 ## Installation
 
 Edit config.mk to match your local setup (dwm is installed into
