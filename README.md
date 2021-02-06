@@ -18,14 +18,12 @@ necessary as root):
     make clean install
 
 ## Patches applied
-
-- [dwm-alpha-20201019-61bb8b2.diff.diff](https://dwm.suckless.org/patches/alpha/)
-- [dwm-fixborders-6.2.diff](https://dwm.suckless.org/patches/alpha/)(alpha)
-- [dwm-autostart-20161205-bb3bd6f.diff](https://dwm.suckless.org/patches/autostart/)
-- [dwm-awesomebar-20191003-80e2a76.diff](https://dwm.suckless.org/patches/awesomebar/)
-- [dwm-fullscreen-6.2.diff](https://dwm.suckless.org/patches/fullscreen/)
-- [dwm-hide_vacant_tags-6.2.diff](https://dwm.suckless.org/patches/hide_vacant_tags/)
-- [dwm-noborder-6.2.diff](https://dwm.suckless.org/patches/noborder/)
+- [x] 添加透明度 [dwm-alpha-20201019-61bb8b2.diff.diff](https://dwm.suckless.org/patches/alpha/)
+- [x] 自启动 [dwm-autostart-20161205-bb3bd6f.diff](https://dwm.suckless.org/patches/autostart/)
+- [x] 在状态栏显示所有的窗口名称 [dwm-awesomebar-20191003-80e2a76.diff](https://dwm.suckless.org/patches/awesomebar/)
+- [x] 全屏某个窗口 [dwm-fullscreen-6.2.diff](https://dwm.suckless.org/patches/fullscreen/)
+- [ ] 只显示有窗口的标签 [dwm-hide_vacant_tags-6.2.diff](https://dwm.suckless.org/patches/hide_vacant_tags/)
+- [x] 当只有一个窗口可见时，删除边框 [dwm-noborder-6.2.diff](https://dwm.suckless.org/patches/noborder/)
 - [dwm-pertag-20200914-61bb8b2.diff](https://dwm.suckless.org/patches/pertag/)
 - [dwm-r1522-viewontag.diff](https://dwm.suckless.org/patches/viewontag/)
 - [dwm-rotatestack-20161021-ab9571b.diff](https://dwm.suckless.org/patches/rotatestack/)
