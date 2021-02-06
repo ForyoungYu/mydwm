@@ -24,7 +24,7 @@ necessary as root):
 - [x] 全屏某个窗口 [dwm-fullscreen-6.2.diff](https://dwm.suckless.org/patches/fullscreen/)
 - [ ] 只显示有窗口的标签 [dwm-hide_vacant_tags-6.2.diff](https://dwm.suckless.org/patches/hide_vacant_tags/)
 - [x] 当只有一个窗口可见时，删除边框 [dwm-noborder-6.2.diff](https://dwm.suckless.org/patches/noborder/)
-- [dwm-pertag-20200914-61bb8b2.diff](https://dwm.suckless.org/patches/pertag/)
+- [x] 不同的标签拥有不同的窗口管理方式 [dwm-pertag-20200914-61bb8b2.diff](https://dwm.suckless.org/patches/pertag/)
 - [dwm-r1522-viewontag.diff](https://dwm.suckless.org/patches/viewontag/)
 - [dwm-rotatestack-20161021-ab9571b.diff](https://dwm.suckless.org/patches/rotatestack/)
 - [dwm-scratchpad-6.2.diff](https://dwm.suckless.org/patches/scratchpad/)
